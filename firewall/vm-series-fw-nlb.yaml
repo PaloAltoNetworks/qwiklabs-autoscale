@@ -41,7 +41,7 @@ resources:
 
     ## ssh key PUBLIC - optional
     sshkey: 'admin:ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCneYe3oVxp5S1DSJ+Fh4B2SDN3Yyt20wnHpbp1vJRjHf4qzA75Uw14lqMAxGhPjUSL5RR+8E9J825cdLyN6Lwp8DN7dOZ1nCxZpIfh8ozcz9yaj0zwnWIfTexQ/g2qwQRVBznkaOW52B0yAFKpUcIJWqj8EA9afh+kLBPQ5QgjVDbsgAjY3M3yToCReoXCax+HEtck8xoRQCZS0KjcC9ZkindG+LDi3xr/wcno0uNZwEbcroBI75FG9Afr9cQ3xM/sH033oAdzm3upnZKJEhO5Kf9qapAE7ajvZ8G9A2sNd9s8OlwHY9MsCwlp0wBdomECZwYn6Etf3QzVFXFsNHAf'
-    bootstrap-bucket: gcp-qwiklabs-panw-lab05-bootstrap
+    bootstrap-bucket: bootstrap-daniel
     image: vmseries-bundle2-814
     machine-type: n1-standard-4
     service-account: INSERT_SERVICE_ACCOUNT_EMAIL_HERE
